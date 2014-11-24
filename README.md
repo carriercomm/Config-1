@@ -129,7 +129,7 @@ Scala dependency.
 ## Using the Library
 
 ### API Example
-    import com.typesafe.config.ConfigFactory
+    import ConfigFactory
 
     Config conf = ConfigFactory.load();
     int bar1 = conf.getInt("foo.bar");

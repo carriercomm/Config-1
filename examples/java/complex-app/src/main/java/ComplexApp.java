@@ -1,4 +1,7 @@
 import com.typesafe.config.*;
+import org.spongepowered.config.Config;
+import org.spongepowered.config.ConfigException;
+import org.spongepowered.config.ConfigFactory;
 import simplelib.*;
 
 class ComplexApp {
